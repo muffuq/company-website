@@ -1,0 +1,198 @@
+@media (max-width:1368px) {	
+	.tp-leftarrow{	
+		left:30px!important
+	}
+
+	.tp-rightarrow{	 
+		right:30px!important
+	}
+	
+	.tfRight{
+		float:right;
+		padding:0;
+		text-align:right!important;
+	}
+	
+	.tfRightInner{
+		width:100%
+	}
+	
+	.viSlider{
+		height:auto;
+		background:#5a5b5e;
+	}
+	
+	.navList li{
+		margin-left:10px
+	}
+	
+	.navList li a{
+		font-size:13px
+	}
+	
+	.uLeft{
+		position:relative!important;
+		padding:0 15px;
+		border:none
+	}
+	
+	.uRight{
+		padding:0
+	}
+	
+	.urun2{
+		height:auto
+	}
+	
+	.urun2Image{
+		height:auto
+	}
+
+	.uLMenu li ul{
+		display: none!important
+	}
+	
+}
+
+
+@media (max-width:1024px) {	
+	.header{
+		display:none;
+	}
+
+	.logoDiv{
+		float:left;
+	}
+	
+	.logo{
+		padding:0
+	}
+	
+	.logo img{
+		max-height:40px
+	}
+	
+	.subRight,.subNav{
+		display:none;
+	}
+	
+	.subLogoDiv{
+		display:inline-block;
+	}
+	
+	.subLeft{
+		float:right
+	}
+	
+	.toggle{
+		display:inline-block
+	}
+	
+	.mainKategoriImage img{
+		max-width:100%;
+		width:auto;
+		max-height:auto;
+		height:auto;
+		margin:0 auto
+	}
+	
+	.footerDiv{
+		margin-top:15px
+	}
+	
+	.pRight{
+		margin-top:30px
+	}
+	
+	.onlyMobile{
+		display:inline-block;
+	}
+	
+	.onlyPc{
+		display:none
+	}
+	
+	.parallaxWrapper{
+		padding:60px 15px
+	}
+
+	.parallaxLeft{
+		padding:0
+	}
+	
+	.pL0{
+		padding:0
+	}
+	
+	.pR0{
+		padding:0
+	}
+	
+	.parallaxTitle{
+		font-size:22px;
+		display:block;
+		text-align:center;
+		width:100%
+	}
+	
+	.parallaxText{
+		font-size:14px;
+		margin-top:15px;
+		width:100%
+	}
+}
+
+@media (max-width:768px){
+	
+	
+	.subLeft{
+		display:none
+	}
+	
+	.mainVideo{
+		height:auto
+	}
+	
+	.mainVideoImage{
+		height:auto
+	}
+	
+	.foto{
+		height:auto
+	}
+	
+	.pageHeaderWrapper{
+		height:100px;
+		display:none;
+	}
+	
+	.pageHeaderName{
+		font-size:19px;
+		font-weight:700;
+	}
+	
+}
+
+@media (max-width:480px){
+	
+	.mainKategoriImage img{
+		width:100%;
+		max-height:auto;
+		height:auto;
+		margin:0 auto
+	}
+	
+	.mainUrunlerTitle{
+		font-size:14px
+	}
+	
+	.mainUrunlerHeaderRight{
+		line-height:14px;
+	}
+	
+	.mainUrunler{
+		padding:15px 15px 30px 15px
+	}
+
+	
+}
